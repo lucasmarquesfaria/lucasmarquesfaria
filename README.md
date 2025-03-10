@@ -41,7 +41,6 @@
 
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasmarquesfaria&theme=onedark&show_icons=true)](https://github.com/lucasmarquesfaria/github-readme-stats)
 
 
 
