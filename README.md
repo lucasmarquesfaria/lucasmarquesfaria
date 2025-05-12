@@ -12,7 +12,7 @@ Meu nome é Lucas Marques de Faria. Moro em Caratinga, MG, e atualmente curso o 
 
 ## Detailed information
 
-* **Stack**: PHP · Laravel · JavaScript · TypeScript · React · Next.js · Node.js · TailwindCSS · SQL
+* **Stack**: PHP · Laravel · JavaScript · js · Node.js · TailwindCSS · SQL
 
 
 ## Curiosities about me
